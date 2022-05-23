@@ -4,4 +4,10 @@ public class Program2
 	{
 		System.out.println("Hi");
 	}
+
+	public static void coolFeature()
+	{
+		System.out.println("Cool, isn't it?");
+		System.out.println("Adding another feature.");
+	}
 }
